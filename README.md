@@ -145,7 +145,6 @@ sequenceDiagram
 
 ตอบ ใช่ครับ
 
-
 5. ตัว username กับ password สามารถใช้เป็น Inmemory ได้ไหมครับ หรือ set ค่าใน application.properties ก็ได้ครับ?
 
 ตอบ ถ้าหมายถึงของตัว Authen ได้ทั้งสองแบบครับ
